@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## 0.0.105
+
+### Patch Changes
+
+- [#1527](https://github.com/primer/view_components/pull/1527) [`595a6754`](https://github.com/primer/view_components/commit/595a67548ada4efcc1268fb59b15ebb9cc7bc5b6) Thanks [@mxriverlynn](https://github.com/mxriverlynn)! - deprecating Primer::Image in favor of Primer::Alpha::Image
+
+* [#1507](https://github.com/primer/view_components/pull/1507) [`16ecd00e`](https://github.com/primer/view_components/commit/16ecd00e6022c5fb7607f278a014537d77ce84ff) Thanks [@jonrohan](https://github.com/jonrohan)! - Adding lookbook and status to `static/arguments.json` file.
+
+- [#1225](https://github.com/primer/view_components/pull/1225) [`c026577c`](https://github.com/primer/view_components/commit/c026577caa9a4c0eb52b9f83f614a928ab3f7445) Thanks [@jonrohan](https://github.com/jonrohan)! - Creating new `Primer::Alpha::SegmentedControl` component. [Design guidelines](https://primer.style/design/components/segmented-control)
+
+* [#1528](https://github.com/primer/view_components/pull/1528) [`1724aa2b`](https://github.com/primer/view_components/commit/1724aa2b39a0c515b4e1135999fd8d0d4cc869de) Thanks [@mxriverlynn](https://github.com/mxriverlynn)! - migrating Primer::ImageCrop to Primer::Alpha::ImageCrop
+
 ## 0.0.104
 
 ### Patch Changes
